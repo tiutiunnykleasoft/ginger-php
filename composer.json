@@ -30,10 +30,5 @@
         "psr-4": {
             "Ginger\\Tests\\": "tests"
         }
-    },
-    "scripts": {
-        "request_test" : [
-            "git checkout tests"
-        ]
     }
 }
